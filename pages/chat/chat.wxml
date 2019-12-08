@@ -1,0 +1,30 @@
+
+<view class="container chat">
+  <view class="chat-item flex-wrp">
+    <view class="avatar flex-item">
+      <image src="../../images/icon8.jpg"></image>
+    </view>
+    <view class="chat-content flex-item">
+      <view class="chat-source">
+        <text class="chatmate">张连宇</text>
+        <text class="lasttime">三天前</text>
+      </view>
+      <text class="chat-txt">我今天战令满级了！</text>
+    </view>
+  </view>
+  <view class="chat-item flex-wrp">
+    <view class="avatar flex-item">
+      <image src="../../images/icon9.jpeg"></image>
+    </view>
+    <view class="chat-content flex-item">
+      <view class="chat-source">
+        <text class="chatmate">陈旭</text>
+        <text class="lasttime">两天前</text>
+      </view>
+      <text class="chat-txt">诶，我抽到蔡文姬的新皮肤了！</text>
+    </view>
+  </view>
+
+</view>
+
+
